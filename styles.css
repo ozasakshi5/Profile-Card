@@ -11,7 +11,7 @@ body {
 .container {
     width: 100%;
     min-height: 100vh;
-    background: url("bg-pattern-top.svg");
+    background: url("images/bg-pattern-top.svg");
     display: flex;
     align-items: center;
     justify-content: center;
